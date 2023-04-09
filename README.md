@@ -87,6 +87,6 @@ Flutter ile geliştirmeye başlarken yardım için; öğreticiler, örnekler, mo
 
 - [github.com/mrMertcanY](https://github.com/mrMertcanY)
 - [github.com/uurhub](https://github.com/uurhub)
-- [github.com/mervenurozd](https://github.com/mervenurozd)
+- [github.com/mervenurozd](https://github.com/mervenurozd) 🪐
 - [github.com/emelacarr](https://github.com/emelacarr)
-- [github.com/mehmetyasinuzun](https://github.com/mehmetyasinuzun) ✨🏹
+- [github.com/mehmetyasinuzun](https://github.com/mehmetyasinuzun)
